@@ -82,9 +82,7 @@ For live scenarios, the app utilizes WebRTC (Web Real-Time Communication).
 **Application Demo:**
 
 **Input Image:**
-
-![[Pasted image 20260511223310.png]]
+![Input Image](Images/Pasted%20image%2020260511223310.png)
 
 **Predicted Image:**
-
-![[Pasted image 20260511223348.png]]
+![Predicted Image](Images/Screenshot%202026-05-11%20223840.jpg)
