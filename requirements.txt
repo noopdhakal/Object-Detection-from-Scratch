@@ -5,3 +5,5 @@ opencv-python
 jupyter
 labelImg
 yaml
+streamlit
+streamlit-webrtc 
