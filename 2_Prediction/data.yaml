@@ -1,5 +1,5 @@
-train: 1_datapreparation/data_images/train
-test: 1_datapreparation/data_images/test
+train: data_images/train
+test: data_images/test
 nc: 20
 names: ['person',
         'car',
